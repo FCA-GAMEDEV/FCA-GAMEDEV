@@ -27,7 +27,7 @@ Esta trilha de projetos foi desenvolvida de forma incremental para o ensino de *
 
 | [🛸 Aula 07: Modelo 3D](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | ⏳ Aula 08 | ⏳ Aula 09 |
 | :---: | :---: | :---: |
-| [![Aula 7](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_007_MODELO3D/main/AulaXNA3D007.png)](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | 🔜 | 🔜 |
+| [![Aula 7](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_007_MODELO3D/main/AulaXNA3D007.png)](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | ![Em Breve](https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png) | ![Em Breve](https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png) |
 | Carregamento de malhas 3D (.x), hierarquia de ossos e iluminação via BasicEffect. | *Em breve* | *Em breve* |
 
 ---
