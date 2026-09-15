@@ -25,10 +25,10 @@ Esta trilha de projetos foi desenvolvida de forma incremental para o ensino de *
 | [![Aula 4](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_004_PIXELSHADER/main/AulaXNA3D004.png)](https://github.com/FCA-GAMEDEV/XNA_004_PIXELSHADER) | [![Aula 5](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_005_CAMERA/main/AulaXNA3D005.png)](https://github.com/FCA-GAMEDEV/XNA_005_CAMERA) | [![Aula 6](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER/main/AulaXNA3D006.png)](https://github.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER) |
 | Introdução a Shaders Programáveis em HLSL com efeito de Lanterna (Spotlight) controlado por Mouse. | Implementação de câmera livre 3D interativa (Estilo FPS) usando teclado e mouse. | Malha densa ondulada dinamicamente via hardware com atenuação linear de mastro. |
 
-| [🛸 Aula 07: Modelo 3D](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | ⏳ Aula 08 | ⏳ Aula 09 |
+| [🛸 Aula 07: Modelo 3D](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | [🌲 Aula 08: Billboards](https://github.com/FCA-GAMEDEV/XNA_008_BILLBOARD) | ⏳ Aula 09 |
 | :---: | :---: | :---: |
-| [![Aula 7](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_007_MODELO3D/main/AulaXNA3D007.png)](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | ![Em Breve](https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png) | ![Em Breve](https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png) |
-| Carregamento de malhas 3D (.x), hierarquia de ossos e iluminação via BasicEffect. | *Em breve* | *Em breve* |
+| [![Aula 7](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_007_MODELO3D/main/AulaXNA3D007.png)](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | [![Aula 8](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_008_BILLBOARD/main/AulaXNA3D008.png)](https://github.com/FCA-GAMEDEV/XNA_008_BILLBOARD) | ![Em Breve](https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png) |
+| Carregamento de malhas 3D (.x), hierarquia de ossos e iluminação via BasicEffect. | Técnica de Billboarding cilíndrico alinhado à visão e ordenação de profundidade no canal alfa. | *Em breve* |
 
 ---
 
