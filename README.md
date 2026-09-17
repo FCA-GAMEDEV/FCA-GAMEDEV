@@ -36,10 +36,48 @@ Esta trilha de projetos foi desenvolvida de forma incremental para o ensino de *
 
 Esta trilha apresenta projetos introdutórios focados no ensino da lógica fundamental de jogos em 2D usando tecnologias web nativas, servindo de porta de entrada para conceitos de física, loops de jogo e POO clássica:
 
-| [🧱 Arkanoid JS (Educativo)](https://github.com/FCA-GAMEDEV/arkanoid) | [🪂 Plumet JS (Educativo)](https://github.com/FCA-GAMEDEV/plumet) | [🚀 Moon Patrol JS (Educativo)](https://github.com/FCA-GAMEDEV/moonpatrol) |
-| :---: | :---: | :---: |
-| <a href="https://github.com/FCA-GAMEDEV/arkanoid"><img src="https://raw.githubusercontent.com/FCA-GAMEDEV/arkanoid/main/screenshotlevel04.png" width="300" alt="Arkanoid JS"></a> | <a href="https://github.com/FCA-GAMEDEV/plumet"><img src="https://raw.githubusercontent.com/FCA-GAMEDEV/plumet/main/screenshotlevel01.png" width="300" alt="Plumet JS"></a> | <a href="https://github.com/FCA-GAMEDEV/moonpatrol"><img src="https://raw.githubusercontent.com/FCA-GAMEDEV/moonpatrol/main/screenshot.png" width="300" alt="Moon Patrol JS"></a> |
-| Versão minimalista em JavaScript Puro (ES6) do clássico jogo de quebrar blocos com login integrado via **Facebook SDK** para exibição de foto de perfil do jogador. Desenvolvido para introduzir loops de renderização (`requestAnimationFrame`), gerência de estados, herança (POO) e física de colisão AABB para alunos iniciantes.<br><br>🎮 **[JOGUE AQUI A VERSÃO ONLINE](https://fca-gamedev.github.io/arkanoid/)** | Versão minimalista e moderna em JavaScript Puro (ES6) do clássico jogo de queda livre e esquiva de plataformas móveis, com limitador de taxa a 60 FPS. Desenvolvido para introduzir conceitos de gravidade, colisão contínua AABB e progressão automática de dificuldade (número e velocidade de blocos por nível) para alunos iniciantes.<br><br>🎮 **[JOGUE AQUI A VERSÃO ONLINE](https://fca-gamedev.github.io/plumet/)** | Versão minimalista e moderna em JavaScript Puro (ES6) do clássico jogo de combate e corrida lunar, com limitador de taxa a 60 FPS. Desenvolvido para introduzir conceitos de física de pulo, disparo duplo simultâneo (frontal e vertical), colisão AABB contra obstáculos terrestres e aéreos, e progressão de fases para alunos iniciantes.<br><br>🎮 **[JOGUE AQUI A VERSÃO ONLINE](https://fca-gamedev.github.io/moonpatrol/)** |
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/arkanoid">🧱 Arkanoid JS (Educativo)</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/plumet">🪂 Plumet JS (Educativo)</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/moonpatrol">🚀 Moon Patrol JS (Educativo)</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/arkanoid">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/arkanoid/main/screenshotlevel04.png" width="100%" alt="Arkanoid JS">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/plumet">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/plumet/main/screenshotlevel01.png" width="100%" alt="Plumet JS">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/moonpatrol">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/moonpatrol/main/screenshot.png" width="100%" alt="Moon Patrol JS">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        Versão minimalista em JavaScript Puro (ES6) do clássico jogo de quebrar blocos com login integrado via <b>Facebook SDK</b> para exibição de foto de perfil do jogador. Desenvolvido para introduzir loops de renderização (<code>requestAnimationFrame</code>), gerência de estados, herança (POO) e física de colisão AABB para alunos iniciantes.<br><br>
+        🎮 <b><a href="https://fca-gamedev.github.io/arkanoid/">JOGUE AQUI A VERSÃO ONLINE</a></b>
+      </td>
+      <td valign="top">
+        Versão minimalista e moderna em JavaScript Puro (ES6) do clássico jogo de queda livre e esquiva de plataformas móveis, com limitador de taxa a 60 FPS. Desenvolvido para introduzir conceitos de gravidade, colisão contínua AABB e progressão automática de dificuldade (número e velocidade de blocos por nível) para alunos iniciantes.<br><br>
+        🎮 <b><a href="https://fca-gamedev.github.io/plumet/">JOGUE AQUI A VERSÃO ONLINE</a></b>
+      </td>
+      <td valign="top">
+        Versão minimalista e moderna em JavaScript Puro (ES6) do clássico jogo de combate e corrida lunar, com limitador de taxa a 60 FPS. Desenvolvido para introduzir conceitos de física de pulo, disparo duplo simultâneo (frontal e vertical), colisão AABB contra obstáculos terrestres e aéreos, e progressão de fases para alunos iniciantes.<br><br>
+        🎮 <b><a href="https://fca-gamedev.github.io/moonpatrol/">JOGUE AQUI A VERSÃO ONLINE</a></b>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
