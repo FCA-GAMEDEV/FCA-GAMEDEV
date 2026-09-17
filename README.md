@@ -15,20 +15,123 @@ Tem ampla experiência nas áreas de desenvolvimento de jogos digitais, produç�
 
 Esta trilha de projetos foi desenvolvida de forma incremental para o ensino de **Computação Gráfica 3D** usando C# com XNA Game Studio 4.0, focando na transição do pipeline fixo para shaders de GPU programáveis:
 
-| [📐 Aula 01: Primitivas](https://github.com/FCA-GAMEDEV/XNA_001_PRIMITIVAS) | [🔄 Aula 02: Transformações](https://github.com/FCA-GAMEDEV/XNA_002_TRANSFORMACOES) | [🖼️ Aula 03: Texturas UV](https://github.com/FCA-GAMEDEV/XNA_003_UVMAP_TEXTURAS) |
-| :---: | :---: | :---: |
-| [![Aula 1](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_001_PRIMITIVAS/main/AulaXNA3D001.png)](https://github.com/FCA-GAMEDEV/XNA_001_PRIMITIVAS) | [![Aula 2](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_002_TRANSFORMACOES/main/AulaXNA3D002_screenshot.png)](https://github.com/FCA-GAMEDEV/XNA_002_TRANSFORMACOES) | [![Aula 3](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_003_UVMAP_TEXTURAS/main/AulaXNA3D003.png)](https://github.com/FCA-GAMEDEV/XNA_003_UVMAP_TEXTURAS) |
-| Triângulo 3D estático renderizado via pipeline fixo com cores interpoladas. | Composição de transformações lineares (Escala, Rotação e Translação no eixo X). | Mapeamento de coordenadas UV e manipulação de pixels de textura na CPU. |
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_001_PRIMITIVAS">📐 Aula 01: Primitivas</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_002_TRANSFORMACOES">🔄 Aula 02: Transformações</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_003_UVMAP_TEXTURAS">🖼️ Aula 03: Texturas UV</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_001_PRIMITIVAS">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_001_PRIMITIVAS/main/AulaXNA3D001.png" width="100%" alt="Aula 1">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_002_TRANSFORMACOES">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_002_TRANSFORMACOES/main/AulaXNA3D002_screenshot.png" width="100%" alt="Aula 2">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_003_UVMAP_TEXTURAS">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_003_UVMAP_TEXTURAS/main/AulaXNA3D003.png" width="100%" alt="Aula 3">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        Triângulo 3D estático renderizado via pipeline fixo com cores interpoladas.
+      </td>
+      <td valign="top">
+        Composição de transformações lineares (Escala, Rotação e Translação no eixo X).
+      </td>
+      <td valign="top">
+        Mapeamento de coordenadas UV e manipulação de pixels de textura na CPU.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| [💡 Aula 04: Pixel Shader](https://github.com/FCA-GAMEDEV/XNA_004_PIXELSHADER) | [📹 Aula 05: Câmera Interativa](https://github.com/FCA-GAMEDEV/XNA_005_CAMERA) | [🚩 Aula 06: Vertex Shader](https://github.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER) |
-| :---: | :---: | :---: |
-| [![Aula 4](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_004_PIXELSHADER/main/AulaXNA3D004.png)](https://github.com/FCA-GAMEDEV/XNA_004_PIXELSHADER) | [![Aula 5](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_005_CAMERA/main/AulaXNA3D005.png)](https://github.com/FCA-GAMEDEV/XNA_005_CAMERA) | [![Aula 6](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER/main/AulaXNA3D006.png)](https://github.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER) |
-| Introdução a Shaders Programáveis em HLSL com efeito de Lanterna (Spotlight) controlado por Mouse. | Implementação de câmera livre 3D interativa (Estilo FPS) usando teclado e mouse. | Malha densa ondulada dinamicamente via hardware com atenuação linear de mastro. |
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_004_PIXELSHADER">💡 Aula 04: Pixel Shader</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_005_CAMERA">📹 Aula 05: Câmera Interativa</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER">🚩 Aula 06: Vertex Shader</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_004_PIXELSHADER">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_004_PIXELSHADER/main/AulaXNA3D004.png" width="100%" alt="Aula 4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_005_CAMERA">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_005_CAMERA/main/AulaXNA3D005.png" width="100%" alt="Aula 5">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_006_VERTEXSHADER/main/AulaXNA3D006.png" width="100%" alt="Aula 6">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        Introdução a Shaders Programáveis em HLSL com efeito de Lanterna (Spotlight) controlado por Mouse.
+      </td>
+      <td valign="top">
+        Implementação de câmera livre 3D interativa (Estilo FPS) usando teclado e mouse.
+      </td>
+      <td valign="top">
+        Malha densa ondulada dinamicamente via hardware com atenuação linear de mastro.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| [🛸 Aula 07: Modelo 3D](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | [🌲 Aula 08: Billboards](https://github.com/FCA-GAMEDEV/XNA_008_BILLBOARD) | ⏳ Aula 09 |
-| :---: | :---: | :---: |
-| [![Aula 7](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_007_MODELO3D/main/AulaXNA3D007.png)](https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D) | [![Aula 8](https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_008_BILLBOARD/main/AulaXNA3D008.png)](https://github.com/FCA-GAMEDEV/XNA_008_BILLBOARD) | ![Em Breve](https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png) |
-| Carregamento de malhas 3D (.x), hierarquia de ossos e iluminação via BasicEffect. | Técnica de Billboarding cilíndrico alinhado à visão e ordenação de profundidade no canal alfa. | *Em breve* |
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D">🛸 Aula 07: Modelo 3D</a></th>
+      <th width="33.3%"><a href="https://github.com/FCA-GAMEDEV/XNA_008_BILLBOARD">🌲 Aula 08: Billboards</a></th>
+      <th width="33.3%">⏳ Aula 09</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_007_MODELO3D">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_007_MODELO3D/main/AulaXNA3D007.png" width="100%" alt="Aula 7">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FCA-GAMEDEV/XNA_008_BILLBOARD">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/XNA_008_BILLBOARD/main/AulaXNA3D008.png" width="100%" alt="Aula 8">
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/FCA-GAMEDEV/main/EmBreve.png" width="100%" alt="Em Breve">
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        Carregamento de malhas 3D (.x), hierarquia de ossos e iluminação via BasicEffect.
+      </td>
+      <td valign="top">
+        Técnica de Billboarding cilíndrico alinhado à visão e ordenação de profundidade no canal alfa.
+      </td>
+      <td valign="top" align="center">
+        <i>Em breve</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
