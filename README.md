@@ -161,7 +161,7 @@ Esta trilha apresenta projetos introdutórios focados no ensino da lógica funda
       </td>
       <td align="center">
         <a href="https://github.com/FCA-GAMEDEV/moonpatrol">
-          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/moonpatrol/main/screenshot.png" width="100%" alt="Moon Patrol JS">
+          <img src="https://raw.githubusercontent.com/FCA-GAMEDEV/moonpatrol/main/screenshotlevel01.png" width="100%" alt="Moon Patrol JS">
         </a>
       </td>
     </tr>
